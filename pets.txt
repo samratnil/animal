@@ -1,9 +1,0 @@
-dog 
-cat 
-rocket 
-blue
-Monty
-Mocha 
-George
-The Frog 
-Waytt
